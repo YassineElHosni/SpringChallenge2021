@@ -53,7 +53,7 @@ class Game {
     this.trees = []
     this.mySun = 0
     this.myScore = 0
-    this.opponentsSun = 0
+    this.opponentSun = 0
     this.opponentScore = 0
     this.opponentIsWaiting = 0
   }
